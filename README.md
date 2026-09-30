@@ -1,8 +1,8 @@
-# Intelligent Co-Optimization Framework — BOHB Hyperparameter Search
+# Intelligent Co-Optimization Framework - BOHB Hyperparameter Search
 
 This repository contains the **BOHB (Bayesian Optimization with Hyperband) hyperparameter search code** used in:
 
-> **An Intelligent Co-Optimization Framework for Hyperparameters and Optimizer-Loss Configurations in Physics Informed Protein Folding Models**
+> **An Intelligent Co-Optimization Framework for Hyperparameters and Optimizer-Loss Configurations in Physics Informed Protein Folding Dynamics**
 > Jamshaid Ul Rahman, Iqra Noureen, Rongin Uwitije, Areen Rasool
 
 ---
