@@ -6,6 +6,6 @@ The underlying physics-informed neural network (PINN) architecture, the reaction
 🔗 https://github.com/jamshaidwarraich/PhyFold
 
 
-##### That repository implements the model described in:
+### That repository implements the model described in:
 
 Ul Rahman, J., Noureen, I., Mannan, A., & Uwitije, R. (2026). PhyFold: Environment-Aware Mathematical Modeling for Protein Folding Dynamics Integrated with Physics-Informed Neural Network. Journal of Cheminformatics, 18, Article 71. https://doi.org/10.1186/s13321-026-01271-w
