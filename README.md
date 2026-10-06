@@ -9,7 +9,8 @@ This repository contains the **BOHB (Bayesian Optimization with Hyperband) hyper
 
 ## Relationship to the base PhyFold codebase
 
-The underlying physics-informed neural network (PINN) architecture, the reaction-diffusion PDE formulation, and the optimizer-loss comparison code used in this study are **not redefined here**. They are already publicly available in our earlier PhyFold repository:
+The underlying physics-informed neural network (PINN) architecture, the reaction-diffusion PDE formulation, and the optimizer-loss comparison code used in this study are **not reproduced here**. These components are publicly available in our earlier **PhyFold** repository:
+
 
 **🔗 https://github.com/jamshaidwarraich/PhyFold**
 
